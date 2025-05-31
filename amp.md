@@ -1,3 +1,4 @@
+  
 | No  | source  | Maker  | model  | Based on  | Google翻訳  |
 |--|--|--|--|--|--|
 | 1| <img src="images/amp/at5_amp_360Bass_Preamp.jpg" alt="at5_amp_360Bass_Preamp.jpg"> | Acoustic  | 360Bass_Preamp  | Acoustic® 360™ Bass Preamp  | このアンプは、史上最大かつ大胆なロックバンドの一つで長年にわたりツアーやレコーディングに使用されました。クラシックロックのトーンを自然に奏でるだけでなく、歴史上最も有名なジャズベーシストの一人が使用したことでも知られています。ソリッドステートでありながら、力強く堂々としたサウンドを誇るこのアンプで、容赦なくベースを弾きこなしましょう。 |
